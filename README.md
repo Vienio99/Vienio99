@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vienio99
 - 👀 I’m interested in programming and blockchain technology. I also love hitch hiking
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: krystian.garwol11@gmail.com
 
