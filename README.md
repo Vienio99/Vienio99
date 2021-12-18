@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vienio99
 - 👀 I’m interested in programming and blockchain technology. I also love hiking
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Solidity
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: krystian.garwol11@gmail.com
 
